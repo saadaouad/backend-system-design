@@ -1,3 +1,3 @@
-# [WIP] - backend-system-design
+# [WIP] 🚧 - backend-system-design
 
 A practical system design workshop focused on building scalable, reliable, and high-performance distributed systems. Learn to think in systems, evaluate architectural trade-offs, and tackle challenges in scaling, data storage, and reliability through real-world design scenarios. 
