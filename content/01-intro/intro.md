@@ -15,7 +15,7 @@ Data is at the heart of every backend application, so we introduce the fundament
 Finally, we discuss **caching**, one of the most effective techniques for improving performance and reducing system load. We explore where caching fits into a backend architecture, the different caching strategies available, and the trade offs involved in keeping cached data consistent and up to date.
 
 
-<img src="../assets/foundations.png" alt="Foundations" style="max-width:100%; height:auto;" />
+<img src="/assets/foundations.png" alt="Foundations" style="max-width:100%; height:auto;" />
 
 
 Once these fundamentals are established, we move into the challenges of working at scale. Production systems must deal with security concerns, unreliable dependencies, partial failures, asynchronous workloads, large amounts of data, and increasingly complex communication patterns. This section covers security, including authentication, authorization, and SSL/TLS; communication protocols, including HTTP, REST, GraphQL, and RPC; and resilience, including failure handling, retries, timeouts, idempotency, and graceful degradation.
@@ -26,6 +26,6 @@ We also examine data at scale, including non-relational storage, replication, pa
 
 The final part of the documentation focuses on case studies, where these principles are applied to real-world backend systems. Rather than simply presenting an architecture, each case study focuses on the reasoning behind the design: defining the problem, identifying constraints, evaluating trade-offs, understanding failure modes, and choosing appropriate architectural patterns.
 
-<img src="../assets/working-at-scale.png" alt="Working at scale" style="max-width:100%; height:auto;" />
+<img src="/assets/working-at-scale.png" alt="Working at scale" style="max-width:100%; height:auto;" />
 
 By the end of this documentation, you will have a solid understanding of the fundamental concepts, design principles, and architectural patterns required to build robust, scalable backend systems.

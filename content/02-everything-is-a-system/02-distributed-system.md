@@ -37,4 +37,4 @@ However, distributing a system also introduces new problems. Machines can fail i
 
 Understanding these problems is one of the foundations of **distributed system design**.
 
-<img src="../assets/distributed-system.png" alt="Distributed system" style="max-width:100%; height:auto;" />
+<img src="/assets/distributed-system.png" alt="Distributed system" style="max-width:100%; height:auto;" />

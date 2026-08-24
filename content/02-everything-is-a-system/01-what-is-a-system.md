@@ -71,4 +71,4 @@ When designing a backend system, we need to understand:
 
 This simple way of thinking helps us understand more complex architectures later.
 
-<img src="../assets/what-is-a-system.png" alt="What's a system" style="max-width:100%; height:auto;" />
+<img src="/assets/what-is-a-system.png" alt="What's a system" style="max-width:100%; height:auto;" />

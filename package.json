@@ -1,0 +1,20 @@
+{
+  "name": "backend-system-design",
+  "version": "1.0.0",
+  "description": "Backend system design notes",
+  "type": "module",
+  "author": "Saad Aouad",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.3.2",
+    "nextra": "^4.6.1",
+    "nextra-theme-docs": "^4.6.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
