@@ -1,4 +1,4 @@
-## 3. Common System Components
+## Common System Components
 
 Most backend systems are built from a few common components. Each component has a specific role and works together with the others to form the complete system.
 
