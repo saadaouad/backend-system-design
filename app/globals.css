@@ -1,0 +1,7 @@
+.nextra-mobile-nav {
+  background: #fff !important;
+}
+
+.dark .nextra-mobile-nav {
+  background: #111 !important;
+}
