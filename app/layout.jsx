@@ -14,7 +14,35 @@ export default async function RootLayout({ children }) {
       <body>
         <Layout
           navbar={<Navbar logo={<b>Backend System Design</b>} />}
-          footer={<Footer>MIT {new Date().getFullYear()} © Saad Aouad</Footer>}
+          footer={
+            <Footer>
+              <div
+                style={{
+                  display: 'flex',
+                  justifyContent: 'space-between',
+                  alignItems: 'center',
+                  width: '100%'
+                }}
+              >
+                <span>MIT {new Date().getFullYear()} © Saad Aouad</span>
+                <a
+                  href="https://github.com/saadaouad/backend-system-design"
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label="GitHub repository"
+                  style={{ display: 'inline-flex' }}
+                >
+                  <img
+                    src="/assets/github.svg"
+                    alt=""
+                    width={24}
+                    height={24}
+                    className="github-footer-icon"
+                  />
+                </a>
+              </div>
+            </Footer>
+          }
           pageMap={await getPageMap()}
         >
           {children}

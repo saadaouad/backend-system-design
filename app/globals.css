@@ -5,3 +5,7 @@
 .dark .nextra-mobile-nav {
   background: #111 !important;
 }
+
+.dark .github-footer-icon {
+  filter: invert(1);
+}
