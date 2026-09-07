@@ -27,7 +27,7 @@ function GitHubLink() {
 
 export const metadata = {
   title: 'Backend System Design',
-  description: 'A practical system design workshop for scalable, reliable backend systems.'
+  description: 'A practical system design notes for scalable, reliable backend systems.'
 };
 
 export default async function RootLayout({ children }) {
