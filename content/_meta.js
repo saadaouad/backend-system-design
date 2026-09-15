@@ -5,5 +5,6 @@ export default {
   '03-requirements': 'Requirements',
   '04-high-level-design': 'High-Level Design',
   '05-scaling': 'Scaling',
-  '06-data-storage': 'Data Storage'
+  '06-data-storage': 'Data Storage',
+  '07-security': 'Security'
 };
