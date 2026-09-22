@@ -7,5 +7,6 @@ export default {
   '05-scaling': 'Scaling',
   '06-data-storage': 'Data Storage',
   '07-security': 'Security',
-  '08-asynchronous-workflows': 'Asynchronous Workflows'
+  '08-asynchronous-workflows': 'Asynchronous Workflows',
+  '09-wrapping-up': 'Wrapping Up'
 };
